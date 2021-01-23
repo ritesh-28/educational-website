@@ -42,11 +42,10 @@
     transition: .2s;
   }
 
-  .home .row .form-container .title{
+  .home .row .form-container a{
     color: var(--pink);
   }
   .home .row .form-container a:hover{
-    color: var(--pink);
     text-decoration: underline;
   }
   
