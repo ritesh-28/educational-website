@@ -42,7 +42,7 @@
     transition: .2s;
   }
 
-  .home .row .form-container a{
+  .home .row .form-container .title:hover{
     color: var(--pink);
   }
   .home .row .form-container a:hover{
