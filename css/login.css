@@ -46,6 +46,7 @@
     color: var(--pink);
   }
   .home .row .form-container a:hover{
+    color: var(--pink);
     text-decoration: underline;
   }
   
